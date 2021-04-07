@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fragmentdyprmdi</string>
+    <string name="action_setting">Setting</string>
+
+    <string name="Hello_blank_fragment">Hello Guys!</string>
+    <string name="tittle_acticty_second">Second Activty</string>
+    <string name="tekan_tombol">Tekan Pipi Kiri!</string>
+    <string name="tampil_tombol">Surprise</string>
+    <string name="Disin_bersamamu">Saat Engkau Dengannya</string>
+
+</resources>
